@@ -8,7 +8,7 @@
   "author": "Ming-der Wang",
   "license": "MIT",
   "dependencies": {
-    "apollo-server-micro": "^3.6.7",
+    "apollo-server-micro": "^3.12.0",
     "axios": "^1.2.0",
     "ethers": "^5.7.2",
     "graphql": "^16.3.0",
